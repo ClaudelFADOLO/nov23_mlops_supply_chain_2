@@ -1,0 +1,11 @@
+pandas
+numpy
+regex  # Package correspondant à l'importation "import re"
+pathlib
+scikit-learn
+fastapi
+pydantic
+joblib
+requests
+uvicorn  # Package correct correspondant à l'importation "import unicorn"
+pyarrow
